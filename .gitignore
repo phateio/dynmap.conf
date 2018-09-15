@@ -1,0 +1,5 @@
+web/standalone
+web/tiles
+hiddenplayers.txt
+ids-by-ip.txt
+*.pending
