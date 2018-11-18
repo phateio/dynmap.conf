@@ -21,7 +21,7 @@ worlds:
         name: surface
         title: Surface
         prefix: t
-        perspective: iso_SE_30_hires
+        perspective: iso_SE_30_lowres
         shader: stdtexture
         lighting: shadows
         image-format: default
@@ -61,7 +61,7 @@ worlds:
         name: nether
         title: Surface
         prefix: nt
-        perspective: iso_SE_30_hires
+        perspective: iso_SE_30_lowres
         shader: stdtexture
         lighting: nethershadows
         image-format: default
@@ -101,7 +101,7 @@ worlds:
         name: the_end
         title: Surface
         prefix: st
-        perspective: iso_SE_30_hires
+        perspective: iso_SE_30_lowres
         shader: stdtexture
         lighting: brightnight
         image-format: default
