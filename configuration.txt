@@ -92,7 +92,7 @@ components:
     webchat-permissions: false
     # Limit length of single chat messages
     chatlengthlimit: 256
-    hide-if-invisiblity-potion: true
+    hide-if-invisiblity-potion: false
     hidenames: false
    
   - class: org.dynmap.SimpleWebChatComponent
