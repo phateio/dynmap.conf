@@ -1,3 +1,5 @@
+%YAML 1.1
+---
 worlds:
 -   name: world_2014
     title: 2014 主世界
@@ -31,6 +33,7 @@ worlds:
         append_to_world: ''
         protected: false
     protected: false
+    showborder: true
     sendposition: true
     sendhealth: true
     visibilitylimits: [
@@ -72,6 +75,7 @@ worlds:
         append_to_world: ''
         protected: false
     protected: false
+    showborder: true
     sendposition: true
     sendhealth: true
     visibilitylimits: [
@@ -111,6 +115,7 @@ worlds:
         append_to_world: ''
         protected: false
     protected: false
+    showborder: true
     sendposition: true
     sendhealth: true
     visibilitylimits: [
@@ -118,8 +123,8 @@ worlds:
     hiddenlimits: [
         ]
     hidestyle: stone
--   name: world_2018
-    title: 2018 資源世界
+-   name: world_2019
+    title: 2019 資源世界
     enabled: true
     extrazoomout: 2
     maps:
@@ -150,6 +155,7 @@ worlds:
         append_to_world: ''
         protected: false
     protected: false
+    showborder: true
     sendposition: true
     sendhealth: true
     visibilitylimits: [
@@ -157,8 +163,8 @@ worlds:
     hiddenlimits: [
         ]
     hidestyle: stone
--   name: world_2018_nether
-    title: 2018 下界
+-   name: world_2019_nether
+    title: 2019 下界
     enabled: true
     extrazoomout: 2
     maps:
@@ -191,6 +197,7 @@ worlds:
         append_to_world: ''
         protected: false
     protected: false
+    showborder: true
     sendposition: true
     sendhealth: true
     visibilitylimits: [
@@ -198,8 +205,8 @@ worlds:
     hiddenlimits: [
         ]
     hidestyle: stone
--   name: world_2018_the_end
-    title: 2018 終界
+-   name: world_2019_the_end
+    title: 2019 終界
     enabled: true
     extrazoomout: 2
     maps:
@@ -230,6 +237,7 @@ worlds:
         append_to_world: ''
         protected: false
     protected: false
+    showborder: true
     sendposition: true
     sendhealth: true
     visibilitylimits: [
