@@ -173,7 +173,7 @@ components:
     type: coord
     label: "Location"
     hidey: false
-    show-mcr: false
+    show-mcr: true
     
   # Note: more than one logo component can be defined
   #- class: org.dynmap.ClientComponent
