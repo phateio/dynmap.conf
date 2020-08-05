@@ -9,7 +9,7 @@ sets:
             }
         deficon: default
         areas:
-            area_10:
+            area_1:
                 fillColor: 16711680
                 world: world_2020
                 markup: false
@@ -26,7 +26,7 @@ sets:
                 ybottom: 64.0
                 strokeColor: 16711680
                 strokeOpacity: 0.8
-            area_11:
+            area_2:
                 fillColor: 16711680
                 world: world_2020
                 markup: false
@@ -43,92 +43,7 @@ sets:
                 ybottom: 64.0
                 strokeColor: 16711680
                 strokeOpacity: 0.8
-            area_1:
-                fillColor: 16711680
-                world: world_2019
-                markup: false
-                ytop: 64.0
-                fillOpacity: 0.3
-                x:
-                - 6144.0
-                - 7680.0
-                strokeWeight: 3
-                z:
-                - 4608.0
-                - 6144.0
-                label: Mansion2019es
-                ybottom: 64.0
-                strokeColor: 16711680
-                strokeOpacity: 0.8
-            area_5:
-                fillColor: 16711680
-                world: world_2019
-                markup: false
-                ytop: 64.0
-                fillOpacity: 0.3
-                x:
-                - -2560.0
-                - -1024.0
-                strokeWeight: 3
-                z:
-                - -2048.0
-                - -512.0
-                label: Stronghold2019
-                ybottom: 64.0
-                strokeColor: 16711680
-                strokeOpacity: 0.8
-            area_4:
-                fillColor: 16711680
-                world: world_2019
-                markup: false
-                ytop: 64.0
-                fillOpacity: 0.3
-                x:
-                - -9216.0
-                - -7680.0
-                strokeWeight: 3
-                z:
-                - -4608.0
-                - -3072.0
-                label: Mansion2019wn
-                ybottom: 64.0
-                strokeColor: 16711680
-                strokeOpacity: 0.8
             area_3:
-                fillColor: 16711680
-                world: world_2019
-                markup: false
-                ytop: 64.0
-                fillOpacity: 0.3
-                x:
-                - 8704.0
-                - 10240.0
-                strokeWeight: 3
-                z:
-                - -8704.0
-                - -7168.0
-                label: Mansion2019en
-                ybottom: 64.0
-                strokeColor: 16711680
-                strokeOpacity: 0.8
-            area_2:
-                fillColor: 16711680
-                world: world_2019
-                markup: false
-                ytop: 64.0
-                fillOpacity: 0.3
-                x:
-                - 7168.0
-                - 8704.0
-                strokeWeight: 3
-                z:
-                - -8192.0
-                - -6656.0
-                label: Mansion2019en
-                ybottom: 64.0
-                strokeColor: 16711680
-                strokeOpacity: 0.8
-            area_9:
                 fillColor: 16711680
                 world: world_2020
                 markup: false
@@ -145,7 +60,7 @@ sets:
                 ybottom: 64.0
                 strokeColor: 16711680
                 strokeOpacity: 0.8
-            area_8:
+            area_4:
                 fillColor: 16711680
                 world: world_2020
                 markup: false
@@ -162,7 +77,7 @@ sets:
                 ybottom: 64.0
                 strokeColor: 16711680
                 strokeOpacity: 0.8
-            area_7:
+            area_5:
                 fillColor: 16711680
                 world: world_2020
                 markup: false
