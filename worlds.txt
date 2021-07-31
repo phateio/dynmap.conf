@@ -123,8 +123,8 @@ worlds:
     hiddenlimits: [
         ]
     hidestyle: stone
--   name: world_2020
-    title: 2020 資源世界
+-   name: world_2021
+    title: 2021 資源世界
     enabled: true
     extrazoomout: 2
     maps:
@@ -163,8 +163,8 @@ worlds:
     hiddenlimits: [
         ]
     hidestyle: stone
--   name: world_2020_nether
-    title: 2020 下界
+-   name: world_2021_nether
+    title: 2021 下界
     enabled: true
     extrazoomout: 2
     maps:
@@ -205,8 +205,8 @@ worlds:
     hiddenlimits: [
         ]
     hidestyle: stone
--   name: world_2020_the_end
-    title: 2020 終界
+-   name: world_2021_the_end
+    title: 2021 終界
     enabled: true
     extrazoomout: 2
     maps:
