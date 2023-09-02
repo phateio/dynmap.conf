@@ -123,8 +123,8 @@ worlds:
     hiddenlimits: [
         ]
     hidestyle: stone
--   name: world_2021
-    title: 2021 資源世界
+-   name: world_2023
+    title: 2023 資源世界
     enabled: true
     extrazoomout: 2
     maps:
@@ -139,6 +139,7 @@ worlds:
         mapzoomin: 1
         mapzoomout: 2
         boostzoom: 0
+        tilescale: 0
         append_to_world: ''
         protected: false
     -   class: org.dynmap.hdmap.HDMap
@@ -152,6 +153,7 @@ worlds:
         mapzoomin: 1
         mapzoomout: 2
         boostzoom: 0
+        tilescale: 0
         append_to_world: ''
         protected: false
     protected: false
@@ -163,8 +165,8 @@ worlds:
     hiddenlimits: [
         ]
     hidestyle: stone
--   name: world_2021_nether
-    title: 2021 下界
+-   name: world_2023_nether
+    title: 2023 下界
     enabled: true
     extrazoomout: 2
     maps:
@@ -179,6 +181,7 @@ worlds:
         mapzoomin: 1
         mapzoomout: 2
         boostzoom: 0
+        tilescale: 0
         background: '#300806'
         append_to_world: ''
         protected: false
@@ -193,6 +196,7 @@ worlds:
         mapzoomin: 1
         mapzoomout: 2
         boostzoom: 0
+        tilescale: 0
         background: '#300806'
         append_to_world: ''
         protected: false
@@ -205,10 +209,19 @@ worlds:
     hiddenlimits: [
         ]
     hidestyle: stone
--   name: world_2021_the_end
-    title: 2021 終界
+-   name: world_2023_the_end
+    title: 2023 終界
     enabled: true
+    protected: false
+    showborder: true
+    sendposition: true
+    sendhealth: true
     extrazoomout: 2
+    visibilitylimits: [
+        ]
+    hiddenlimits: [
+        ]
+    hidestyle: stone
     maps:
     -   class: org.dynmap.hdmap.HDMap
         name: flat
@@ -221,6 +234,7 @@ worlds:
         mapzoomin: 1
         mapzoomout: 2
         boostzoom: 0
+        tilescale: 0
         append_to_world: ''
         protected: false
     -   class: org.dynmap.hdmap.HDMap
@@ -234,14 +248,6 @@ worlds:
         mapzoomin: 1
         mapzoomout: 2
         boostzoom: 0
+        tilescale: 0
         append_to_world: ''
         protected: false
-    protected: false
-    showborder: true
-    sendposition: true
-    sendhealth: true
-    visibilitylimits: [
-        ]
-    hiddenlimits: [
-        ]
-    hidestyle: stone
