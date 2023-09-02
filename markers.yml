@@ -3,6 +3,19 @@
 icons: {
     }
 sets:
+    chunkmaster:
+        hide: false
+        circles: {
+            }
+        deficon: default
+        areas: {
+            }
+        label: Chunkmaster
+        markers: {
+            }
+        lines: {
+            }
+        layerprio: 0
     markers:
         hide: false
         circles: {
