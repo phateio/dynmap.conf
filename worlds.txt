@@ -123,8 +123,8 @@ worlds:
     hiddenlimits: [
         ]
     hidestyle: stone
--   name: world_2023
-    title: 2023 資源世界
+-   name: world_2024
+    title: 2024 資源世界
     enabled: true
     extrazoomout: 2
     maps:
@@ -142,6 +142,7 @@ worlds:
         tilescale: 0
         append_to_world: ''
         protected: false
+        readonly: false
     -   class: org.dynmap.hdmap.HDMap
         name: surface
         title: Surface
@@ -156,6 +157,7 @@ worlds:
         tilescale: 0
         append_to_world: ''
         protected: false
+        readonly: false
     protected: false
     showborder: true
     sendposition: true
@@ -165,8 +167,8 @@ worlds:
     hiddenlimits: [
         ]
     hidestyle: stone
--   name: world_2023_nether
-    title: 2023 下界
+-   name: world_2024_nether
+    title: 2024 下界
     enabled: true
     extrazoomout: 2
     maps:
@@ -185,6 +187,7 @@ worlds:
         background: '#300806'
         append_to_world: ''
         protected: false
+        readonly: false
     -   class: org.dynmap.hdmap.HDMap
         name: nether
         title: Surface
@@ -200,6 +203,7 @@ worlds:
         background: '#300806'
         append_to_world: ''
         protected: false
+        readonly: false
     protected: false
     showborder: true
     sendposition: true
@@ -209,8 +213,8 @@ worlds:
     hiddenlimits: [
         ]
     hidestyle: stone
--   name: world_2023_the_end
-    title: 2023 終界
+-   name: world_2024_the_end
+    title: 2024 終界
     enabled: true
     protected: false
     showborder: true
@@ -237,6 +241,7 @@ worlds:
         tilescale: 0
         append_to_world: ''
         protected: false
+        readonly: false
     -   class: org.dynmap.hdmap.HDMap
         name: the_end
         title: Surface
@@ -251,3 +256,4 @@ worlds:
         tilescale: 0
         append_to_world: ''
         protected: false
+        readonly: false
